@@ -1,37 +1,37 @@
 export default [
   {
     id: '1',
-    name: 'Vadim Savin',
+    name: 'Icho',
     image:
-      'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/vadim1.JPG',
-    bio: 'I will be the semicolons to your code',
+      'https://www.woopets.fr/assets/img/001/244/1200x675/choisir-chien-japonais.jpg',
+    bio: 'Icho est ravi de faire votre connaissance',
   },
   {
     id: '2',
-    name: 'Elon Musk',
+    name: 'Meow',
     image:
-      'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/elon.png',
-    bio: 'A dude with a rocket is looking for a gal with fuel',
+      'https://img.20mn.fr/NoQBW3SwTxy_laVhOMBH5ik/1200x768_les-chiens-de-race-rottweiller',
+    bio: 'Oui, on m\'appelle Meow et je suis un chien',
   },
   {
     id: '3',
-    name: 'Zuck',
+    name: 'Peluche',
     image:
-      'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/zuck.jpeg',
-    bio: 'No need to send me your nudes, I already saw them',
+      'https://jardinage.lemonde.fr/images/dossiers/2022-07/langage-chien-(2)-151744.jpg',
+    bio: 'J\'aimerai bien être ta peluche',
   },
   {
     id: '4',
-    name: 'Jeffrey Bezos',
+    name: 'Dakota',
     image:
-      'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/jeff.jpeg',
-    bio: 'CEO, entrepreneur born in 1964, Jeffrey, Jeffrey Bezos',
+      'https://cdn.futura-sciences.com/sources/images/chien-min.jpeg',
+    bio: 'Je suis Dakota, mais je ne viens pas du Dakota',
   },
   {
     id: '5',
-    name: 'Vadim Savin',
+    name: 'Vilma',
     image:
-      'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/vadim1.JPG',
-    bio: 'Hola',
+      'https://img.20mn.fr/o9Jjsp84Q5mip-tYhNLD7yk/1200x768_berger-malinois-illustration',
+    bio: 'Je serais prendre soin de toi',
   },
 ];
