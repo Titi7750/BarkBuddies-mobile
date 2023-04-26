@@ -6,7 +6,7 @@ const Card = (props) => {
     const { name, image, bio } = props.user;
 
     return (
-        <View style={styles.card}>
+        <View>
             <ImageBackground source={{ uri: image }} style={styles.ImageBackground}>
                 <View style={styles.cardInner}>
                     <Text style={styles.name}>{name}</Text>
@@ -18,24 +18,6 @@ const Card = (props) => {
 };
 
 const styles = StyleSheet.create({
-    pageContainer: {
-        flex: 1, justifyContent: 'center', alignItems: 'center'
-    },
-    card: {
-        width: '95%',
-        height: '70%',
-        borderRadius: 10,
-
-        shadowColor: '#000',
-        shadowOffset: {
-            width: 0,
-            height: 5,
-        },
-        shadowOpacity: 0.36,
-        shadowRadius: 6.68,
-
-        elevation: 11,
-    },
     ImageBackground: {
         width: '100%',
         height: '100%',
