@@ -32,6 +32,6 @@ export default [
     name: 'Vilma',
     image:
       'https://img.20mn.fr/o9Jjsp84Q5mip-tYhNLD7yk/1200x768_berger-malinois-illustration',
-    bio: 'Je serais prendre soin de toi',
+    bio: 'Je saurais prendre soin de toi',
   },
 ];
