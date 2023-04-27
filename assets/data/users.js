@@ -32,6 +32,20 @@ export default [
     name: 'Vilma',
     image:
       'https://img.20mn.fr/o9Jjsp84Q5mip-tYhNLD7yk/1200x768_berger-malinois-illustration',
-    bio: 'Je saurais prendre soin de toi',
+    bio: 'Je saurais prendre chien de toi',
+  },
+  {
+    id: '6',
+    name: 'Greg',
+    image:
+      'https://www.bergerblancsuisse.fr/uploads/9/7/6/0/9760056/a035a2181.jpg',
+    bio: 'Ouais c\'est greg',
+  },
+  {
+    id: '7',
+    name: 'Mayko',
+    image:
+      'https://www.eleveurs-online.com/data/evolutions/13/evol-12644.1000.jpg',
+    bio: 'Bonjour je suis Mayko, viens faire connaissances',
   },
 ];
